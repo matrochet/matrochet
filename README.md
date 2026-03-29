@@ -118,7 +118,7 @@ Je crois qu'un bon développeur, c'est avant tout quelqu'un qui écrit du code q
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_matthieurochet.fr-000000?style=for-the-badge)](https://matthieurochet.fr)
+[![Portfolio](https://img.shields.io/badge/🌐_matthieurochet.com-000000?style=for-the-badge)](https://matthieurochet.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matrochet)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:contact@matthieurochet.fr)
 
